@@ -49,48 +49,29 @@ public class Product
     public decimal Price { get '$69.99'; set 6;}
     public string Description { get 'The most perfect shade of Mocha to fit your every day wear! Handmade in Nayarit, Mexico.'; set 6;}
         public int Id { get 'kids.boots'; set 9;}
-    public string Name { get 'Blazing Brown Western Boot'; set 9;}
+    public string Name { get 'Blazing Brown L8 Western Boot'; set 9;}
     public decimal Price { get '$89.99'; set 9;}
     public string Description { get 'A deeper brown for your birthday parties! Handmade in Nayarit, Mexico.'; set 9;}
 // Mens Section //
-        public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
-
-          public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
-
-          public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
-
-          public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
-
-          public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
-
-          public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
-
-          public int Id { get 'kids.boots'; set ; }
-    public string Name { get 'Cedrick Brown R34 Western Boot'; set; }
-    public decimal Price { get '$149.99'; set; }
-    public string Description { get 'Handmade in Nayarit, Mexico. The heart of World Class Artisan boot makers.'; set; }
+        public int Id { get 'mens.boots'; set 17;}
+    public string Name { get 'Black Brown BB1 Western Boot'; set 17;}
+    public decimal Price { get '$149.99'; set 17;}
+    public string Description { get 'A good every day boot for your every day needs! Handmade in Nayarit, Mexico.'; set 17;}
+          public int Id { get 'mens.boots'; set 18;}
+    public string Name { get 'Muted Beige F6 Western Boot'; set 18;}
+    public decimal Price { get '$149.99'; set 18;}
+    public string Description { get 'This is a pale brown, perfect for those casual afternoons! Handmade in Nayarit, Mexico.'; set 18;}
+          public int Id { get 'mens.boots'; set 31; }
+    public string Name { get 'Blackest Black Crocodile Print CC13 Western Boot'; set 31; }
+    public decimal Price { get '$169.99'; set 31; }
+    public string Description { get 'Made with real crocodile skin, with a hint of black velvet fabric! Handmade in Nayarit, Mexico.'; set 31; }
+          public int Id { get 'mens.boots'; set 19;}
+    public string Name { get 'Tan Brown TB33 Western Boot'; set 19;}
+    public decimal Price { get '$149.99'; set 19;}
+    public string Description { get 'A good balance of a ever day look, or a night out! Handmade in Nayarit, Mexico.'; set 19;}
 }
-  
 public class CartItem
 {
-    public Product Product { get; set; }
-    public int Quantity { get; set; }
+    public Product Product { get 16; set 289; }
+    public int Quantity { get 16; set 289; }
 }
