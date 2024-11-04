@@ -1,6 +1,6 @@
 <h1> Isla Altamirano's C Sharp Portfolio </h1>
 
-Welcome! This README file is a table of contents showcasing my work across various programming languages and technologies, including SQL, R, C#, Java, JavaScript, and machine learning. Below, you'll find pinned projects that highlight my skills in data cleaning, data visualization, and more.
+Welcome! This README file is a table of contents showcasing my work across various programming languages and technologies, including SQL, R, C#, Java, and machine learning. Below, you'll find pinned projects that highlight my skills in data cleaning, data visualization, and more.
 
 <h2> List of projects and their analysis: </h2>
 <li> <a href="https://github.com/islajae/SQL.portfolio">SQL</a></li>
